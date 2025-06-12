@@ -45,10 +45,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Run on Google Colab
-
----
-
 ## 📂 Project Structure
 
 ```
